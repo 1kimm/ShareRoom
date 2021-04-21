@@ -1,0 +1,33 @@
+#loginModal div {
+    text-align: center;
+}
+.loginButtons {
+    text-align: center;
+    width: 250px;
+    height: 59px;
+    margin-bottom: 20px;
+    border: none;
+}
+#loginKakao {
+    background: #fee100;
+    color: black;
+}
+#loginNaver {
+    margin-bottom: 20px;
+}
+#loginGoogle {
+    background: #e3e3e3;
+    color: black;
+}
+.loginButtons img {
+    float:left;
+    width: 40px;
+    margin-right: 40px;
+    padding-bottom: 10px;
+}
+.loginText {
+    float:left;
+    text-align:center;
+    line-height:32px;
+}
+
